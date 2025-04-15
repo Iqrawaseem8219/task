@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family:Playfair Display  ;
+}
+ 
+.banner {
+    background-color: #8B4000;
+    font-size: larger;
+    color: black;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.menu {
+    background-color: #D2A157;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.menu a {
+    color: green;
+    margin: 0 18px;
+    text-decoration: none;
+    font-weight: bold;
+  
+}
+
+.content {
+    background-color: #D2A157;
+    padding: 0px 75px 75px 75px;
+    text-align: left;
+ 
+}
+
+.content h2 {
+    
+    color: black;
+    font-family: Playfair Display;
+    font-weight: bolder;
+  text-align:left ;
+    font-size: 500;
+    margin-top: 0;
+ 
+}
+
+.content p {
+    font-family: Merriweather    ;
+    text-align: left;
+    color: #5A1F00;
+}
+
+.content p:nth-of-type(3) {
+
+ font-family: Merriweather    ;
+    color:black;
+} 
+
+
